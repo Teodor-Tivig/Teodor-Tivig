@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Teodor-Tivig
 - 👀 I’m interested in networking, Python, Linux, and cloud technologies.
-- 🌱 I’m currently learning Python, cloud, Linux and cloud.
-- 💞️ I’m looking to collaborate on networking, clodud computing and 
+- 🌱 I’m currently learning Python, cloud, Linux.
+- 💞️ I’m looking to collaborate on networking, clodud computing and Python.
 - 📫 How to reach me teodor.tivig@gmail.com
 
 <!---
